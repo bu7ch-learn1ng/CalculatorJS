@@ -1,0 +1,12 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+calculator {
+  width: 325;
+  height: auto;
+  
+}
